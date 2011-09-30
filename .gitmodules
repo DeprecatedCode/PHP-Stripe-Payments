@@ -1,0 +1,3 @@
+[submodule "stripe-php"]
+	path = stripe-php
+	url = ./stripe-php
